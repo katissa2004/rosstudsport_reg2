@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "test-reg-rosstudsport",
+  "private_key_id": "74e05c0ac9e827ef13393ce45ac7089a8283903d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDko/4L9Cw72NVu\ndcioYR7K/HGylhpOiqHYpAntvRhEM0L1znfx4DhrDMpIsPfOUSJ9TfdVG5Lxin9P\nEbrjGcmv/1V8nWAjpKsKpFgrGTFTY0IJGdXpbmde62hXQqWNA6BBLfZAYZdckKR9\nvlBN4qSNwIYckB8ntLV127QOPt777GB9g+NW/l7gxI0qYFX6YyUfYHXl3aeWds4/\nEqq4fiunbion9E5EiZDCBf/v5uIt+p00vjmT7hd0rO3mii8aBBuERjv1eX3odkBj\n30FWQbILSX51EzAPtYZF1dGJqwioF2KoEAnM2GKW/yk8GLhDwcaiWox9Z8+CaQ1e\n0K5NPUFnAgMBAAECggEAE1ErqJTjm9bRCXkYD+nMsTes33rBFDuwOt55HEXqo/B0\nytG73oqkGZ9GA+g3t42xTUbmC6G9w3yBDwwfbwqBuMXo0hN1yO0jqk2CSXniafor\n3Rr6sLMsNp/K+/xcglJ5Gqiocn4MTLzHuPv4SuxIHNXUPtuKVk91OVTrnHyBWGVS\nSHn5jweGWUHH5++bwHmH8Svamqqo6tVlNdOfyACdYWOx707fJcr5ryDoEqe65CwG\nlebifyUc5zL7b933vC9TVWI4Pkc+1wfxmgAmuD936DqWRuWpmhqeMKDIafCDTv3F\n3p+FAKlLq2emjCOOeVVk2hZ9ap266AIQL+thbz+c+QKBgQD4aQwDahfBqhLqz4wR\nYIK0oNlzD2Bp4eTx/0bqgcCY07rB6KTUJGx7rE2DKjiUll2JUKU6Gq12F6+mhOuG\nrEjZ42KfrdvFXdsO9CfVe+uw+vAA3gCN2FTyrYmJemHra/8icZnwhbNyMIiyLSIe\nmkWTDJm3z3kBoKW6/hBHF+EDnQKBgQDroFDCPiF/0ZK9+EejJYmvM67r+VZ4Nx8O\n6XAKNMfGDfPjpZcG4OfMWnGlnhEsWq4yFd7RDYtXyjNMJoNxuexJgHQEj8PzhhXS\n47rm3T1yTlO78B+CjnkFXdAMMu+L8WBKXbJEXCrLqGDUXoclnmUfODSIP7/aJWfE\nw0A5l5sz0wKBgDDx+cT+dXnaOen8RPvziS1v+Ah8wiF6ufKYuu9f64PxS/4DCd8m\n4h0oIQm0Gvvj+MAinLurH/yBxEFKNWIOtjgAXqFZz1C/Ind60hJ1XUY822dAVtmc\nA3jhipUFASAy4k12Fr/WiDn6qCR7Uhq3iPflZrBZ99zDO4RxpOFtKg/dAoGBAIec\nmj5hcfhVzyYk+l4MocTDcz5/H+RKnUaA1ioZnI0BxMfVqymbUe3MdDJE2k9z1WQg\nMECTkgox5vpCBE71Gehn1N43PCkxl+frh8uNs+rQ5+J33jrO8xpClxYeTr51at0C\nNjKf9UWHoEs6KIBfPIYOXDW6sxnDg4i8c39yITJfAoGAITw03RtOAB/tLIdRPXo/\n1QHfNyl7Kt6jcc/N7oH3Llyrc3QWsMsricIQDoZDpW5G5RBhXDii6hkq3gXIciaZ\nAhCiHxNMGKd5Eu21SpV2RieMCV00UZ8BZtRvIT1NDMhsQiz1Ek8TNQJ3W3dQCoOI\nIOUtr2TNGH9iTudZCx+89Vs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "katissa@test-reg-rosstudsport.iam.gserviceaccount.com",
+  "client_id": "113279158436899868172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/katissa%40test-reg-rosstudsport.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
